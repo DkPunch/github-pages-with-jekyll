@@ -13,4 +13,4 @@ github_username:  DkPunch
 
 show_excerpts: false 
 
-theme: jekyll-minima-hacker
+theme: minima
